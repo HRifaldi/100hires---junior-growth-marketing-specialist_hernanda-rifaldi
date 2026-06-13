@@ -13,16 +13,32 @@ This repository documents the first setup step for the 100Hires portfolio projec
 ## Steps Completed
 
 1. Installed Cursor IDE.
-2. Installed, logged in to, and verified the Claude Code extension in Cursor.
+2. Installed the Claude Code extension in Cursor.
 3. Installed, logged in to, and verified the Codex extension in Cursor.
 4. Created a local Git repository for this setup project.
 5. Created this `README.md` file to document the setup work.
 6. Committed the project files with Git.
 7. Created a public GitHub repository and pushed the project.
 
+## Codex Login Verification
+
+The Codex extension is installed and logged in inside Cursor.
+
+![Codex extension logged in](assets/codex-login-proof.png)
+
 ## Issue and Solution
 
-I did not run into any major issues during the setup process. I understood the installation steps, completed the tool setup, logged in to the required extensions, and pushed the repository to GitHub.
+### Claude Code login requires paid access
+
+I installed the Claude Code extension in Cursor, but I could not complete the login because the official Claude Code setup documentation says Claude Code requires a Claude Pro, Max, Team, Enterprise, or Console account. The free Claude.ai plan does not include Claude Code access.
+
+Reference: [Claude Code setup documentation](https://docs.anthropic.com/en/docs/claude-code/setup).
+
+Solution: I documented the requirement and will complete the Claude Code login after getting the required Claude subscription or Claude Console access.
+
+### Codex login completed
+
+I successfully logged in to the Codex extension in Cursor using my OpenAI account. I added the screenshot above as verification.
 
 ## Notes
 
