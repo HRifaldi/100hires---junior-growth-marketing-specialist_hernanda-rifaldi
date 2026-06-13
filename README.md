@@ -22,15 +22,7 @@ This repository documents the first setup step for the 100Hires portfolio projec
 
 ## Issue and Solution
 
-During the setup process, I found a few small issues and solved them as described below.
-
-### Finding the correct Codex extension
-
-The Codex extension appears locally with the package name `openai.chatgpt`, while the visible extension name is "Codex - OpenAI's coding agent." To confirm that the correct extension was installed, I checked the extension manifest and verified the display name, publisher, and version.
-
-### GitHub repository setup
-
-The project folder was initialized as a Git repository, but it did not have a GitHub remote configured yet. I used GitHub CLI to create a public repository, connect it as the remote, and push the first commit.
+I did not run into any major issues during the setup process. I understood the installation steps, completed the tool setup, logged in to the required extensions, and pushed the repository to GitHub.
 
 ## Notes
 
