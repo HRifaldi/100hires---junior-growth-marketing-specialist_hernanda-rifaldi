@@ -36,8 +36,6 @@ research/
   linkedin-posts/
   youtube-transcripts/
   other/
-assets/
-  codex-login-proof.png
 ```
 
 ## Collection Notes
@@ -45,9 +43,3 @@ assets/
 YouTube captions were retrieved through `youtube-transcript-api` where available. Later requests hit YouTube IP protection, so those fetch failures are documented in `research/other/transcript-fetch-log.md` and supplemented with public podcast/LinkedIn/source pages.
 
 LinkedIn posts were collected manually from public pages discovered through search. Each author file includes source URLs, observed public date labels, summaries, and playbook relevance.
-
-## Setup Context
-
-This repository started as the 100Hires AI tools setup portfolio project. The original setup proof is still included below.
-
-![Codex extension logged in](assets/codex-login-proof.png)
